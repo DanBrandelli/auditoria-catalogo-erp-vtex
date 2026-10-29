@@ -1,0 +1,7 @@
+# Nunca versionar dados reais ou relatórios gerados com eles
+*.xlsx
+*.csv
+!dados_exemplo/*.xlsx
+relatorio_*.xlsx
+dados_reais/
+__pycache__/
